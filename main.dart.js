@@ -35543,7 +35543,7 @@ k=D.a8o(D.a7V(M.eE(C.a6,L.cd("CHAT GRUPO",f,f,f,f,f,A.fI(f,f,C.i,f,f,f,f,f,f,f,f
 j=K.jj(80)
 i=H.b([C.bS.h(0,800),C.bS.h(0,900)],l)
 h=K.jj(30)
-j=T.As(H.b([new U.t5(new L.qL("calculadora_calango/assets/logo.jpg"),f),o,n,new X.CY(new F.O0(g),f),new T.di(C.ui,T.og(H.b([m,k,D.a8o(D.a7V(M.eE(C.a6,L.cd("SUPORTE",f,f,f,f,f,A.fI(f,f,C.i,f,f,f,f,f,f,f,f,15,f,f,f,f,!0,f,f,f,f,f,f),C.F,f,f),f,new S.aG(0,120,50,1/0),f,f,f,f,f),new S.dM(f,f,f,h,f,new T.ij(C.di,C.dh,C.aZ,i,f,f),C.a2)),10,new F.O1(),new V.aB(0,0,0,0),new X.cP(j,C.q))],p),C.aC,C.eA,C.ad),f)],p),C.ey,C.ad)
+j=T.As(H.b([new U.t5(new L.qL("assets/logo.jpg"),f),o,n,new X.CY(new F.O0(g),f),new T.di(C.ui,T.og(H.b([m,k,D.a8o(D.a7V(M.eE(C.a6,L.cd("SUPORTE",f,f,f,f,f,A.fI(f,f,C.i,f,f,f,f,f,f,f,f,15,f,f,f,f,!0,f,f,f,f,f,f),C.F,f,f),f,new S.aG(0,120,50,1/0),f,f,f,f,f),new S.dM(f,f,f,h,f,new T.ij(C.di,C.dh,C.aZ,i,f,f),C.a2)),10,new F.O1(),new V.aB(0,0,0,0),new X.cP(j,C.q))],p),C.aC,C.eA,C.ad),f)],p),C.ey,C.ad)
 return D.rX(f,new M.uP(new E.qI(r,q,!0,new P.Z(1/0,56),f),T.am6(H.b([T.nn(new E.F_(!0,new L.qt(f),j,f)),new F.D4(H.b([C.i,C.bT,C.n0,C.n1,C.i,C.bT,C.n0,C.n1],l),f)],p),C.aC,C.x,f,C.ey,C.ad,f,f,C.eT),s,!1,f),C.aw,!1,f,f,f,f,f,f,f,f,f,f,f,new F.O2(b),f,f,f,f,new F.O3(b),f)}}
 F.NW.prototype={
 $1:function(a){var s,r,q,p,o,n,m,l,k,j
