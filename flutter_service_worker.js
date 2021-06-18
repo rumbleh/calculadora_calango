@@ -3,26 +3,26 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "a0d0eedb5842f0ee148102891de7d2fd",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/assets/logo.jpg": "f2025637528bc4bb57b61a60f973ffb4",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/AssetManifest.json": "d7a810890898ee6ee58610ca4931f404",
-"assets/NOTICES": "521c86a56474b86ad446ad28845cd4e1",
+  "calculadora_calango/main.dart.js": "a0d0eedb5842f0ee148102891de7d2fd",
+"calculadora_calango/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"calculadora_calango/assets/assets/logo.jpg": "f2025637528bc4bb57b61a60f973ffb4",
+"calculadora_calango/assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"calculadora_calango/assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"calculadora_calango/assets/AssetManifest.json": "d7a810890898ee6ee58610ca4931f404",
+"calculadora_calango/assets/NOTICES": "521c86a56474b86ad446ad28845cd4e1",
 "index.html": "ccce7525d314a3f26d4f5c059067694a",
 "/": "ccce7525d314a3f26d4f5c059067694a",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "a3cfb512b3c027db3614839a91196c62",
-"version.json": "c9e5bb5c0c27fafb5ef52dcf7eca1364",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796"
+"calculadora_calango/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"calculadora_calango/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"calculadora_calango/manifest.json": "a3cfb512b3c027db3614839a91196c62",
+"calculadora_calango/version.json": "c9e5bb5c0c27fafb5ef52dcf7eca1364",
+"calculadora_calango/favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
+  "/calculadora_calango/",
 "main.dart.js",
 "index.html",
 "assets/NOTICES",
