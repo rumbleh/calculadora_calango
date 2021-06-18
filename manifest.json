@@ -1,11 +1,11 @@
 {
-    "name": "calculadora_do_calango",
-    "short_name": "calculadora_do_calango",
+    "name": "Calculadora do Calango Green" ,
+    "short_name": "Calculadora Calango Green",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#054509",
+    "theme_color": "#054509",
+    "description": "Calculadora de entradas, metas e stop gain, além de informações de retornos dos investimetos em um prazo de 30 dias.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
