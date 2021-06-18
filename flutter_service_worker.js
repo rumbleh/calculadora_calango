@@ -3,15 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "a044538154b4e38a8aac5ff92eb84922",
+  "main.dart.js": "bcc9ef2c1d8ec0fb749bf4490b40ff3c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/assets/logo.jpg": "f2025637528bc4bb57b61a60f973ffb4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/AssetManifest.json": "d7a810890898ee6ee58610ca4931f404",
 "assets/NOTICES": "9a424b40d8b058b7029e11736e9d9037",
-"index.html": "d6b28cd05fc2d6fed66c9c99fae69e9b",
-"/": "d6b28cd05fc2d6fed66c9c99fae69e9b",
+"index.html": "e6e91d77390d549a8ccfb12bf5dc22ae",
+"/": "e6e91d77390d549a8ccfb12bf5dc22ae",
 "README.md": "0a6f5f1733586d7140ee85579f28e803",
 ".git/FETCH_HEAD": "60bc02719be677eb4a423f8be302d8ef",
 ".git/config": "caa82a4554d31e4a15e4eee567674658",
